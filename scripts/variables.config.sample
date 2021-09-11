@@ -1,3 +1,5 @@
+# Replace the values below with details relevant to your project and accounts. Remove the .sample file extension to use this file and mark it as ignored in Git, due to the sensitive nature of the information.
+
 ACR_NAME=<your_registry_name_here>  # The name of your Azure container registry
 RES_GROUP=$ACR_NAME-resgrp # The name of your Resource Group
 AKV_NAME=$ACR_NAME-vault # The name of your Azure Key Vault
