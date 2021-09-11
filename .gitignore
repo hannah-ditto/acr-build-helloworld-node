@@ -1,0 +1,2 @@
+create-service-principal.sh
+build-container-on-commit.sh
